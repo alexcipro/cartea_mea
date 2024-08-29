@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "cartea_mea"
-  author: "Jane Doe"
+  title: "Introducere in analiza statistica si economico-financiara"
+  author: "Ciprian Alexandru-Caragea"
   date: "8/28/2024"
   chapters:
     - index.qmd
